@@ -1,3 +1,5 @@
+> 🛠️ Built from scratch, almost died for it. If it resonates, [send food](https://ko-fi.com/neonraven3).
+
 # Raven Together™ ![qt](/RT.png)
 > Raven Together – A next-gen pixel art editor built for artists, powered by code, and designed for multiplayer creativity from the ground up.
 No bloat. No waiting. Just real-time collaboration, editable tiles, and shader hot reloads. Built solo. Ready to scale.
@@ -40,7 +42,7 @@ Even $5 keeps the lights on. Literally.
 
 ## General
 - An editor that doesn't *just* work, it looks and *feels*.
-- Use textures as a palette, or colors to deign textures.
+- Use textures as a palette, or colors to design textures.
 - Fluid and seamless work without context switching between apps.
 - Edit one tile, edit your world. 
 - Bloat-free performant art/design first engine with extensibility expected by developers

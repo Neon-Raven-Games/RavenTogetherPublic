@@ -11,7 +11,7 @@ Built on nothing but desperation and code. Help me survive, for everyone tired o
 Even $5 keeps the lights on. Literally.
 
 *“Neon Raven™ and Raven Together™ are the ongoing works of Michael Ross. All rights reserved. Unauthorized use prohibited.”*
-> Raven Together is the first public-facing phase of a much larger vision. It starts with pixel art, but it doesn’t end there.
+> 🚧 Still cleaning up. Full docs and demo incoming. Raven Together is the first public-facing phase of a much larger vision. It starts with pixel art, but it doesn’t end there.
 
 ## User Testimony
 - "… but it looks so continuous. Like didn’t you close the software once?"

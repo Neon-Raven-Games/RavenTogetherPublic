@@ -1,5 +1,3 @@
-> 🛠️ Built from scratch, almost died for it. If it resonates, [send food](https://ko-fi.com/neonraven3).
-
 # Raven Together™ ![qt](/RT.png)
 > Raven Together – A next-gen pixel art editor built for artists, powered by code, and designed for multiplayer creativity from the ground up.
 No bloat. No waiting. Just real-time collaboration, editable tiles, and shader hot reloads. Built solo. Ready to scale.
@@ -27,6 +25,8 @@ Even $5 keeps the lights on. Literally.
 | Real-Time Sprite Edits | ✅                   | ❌          | ❌            | ❌         |
 | Hot Reload Shaders     | ✅ Shader DSL        | ⚠️ Partial | ✅ (manual)   | ❌         |
 | DSL & Scripting Engine | ✅ Compiled and Live | ❌          | ✅ (GDScript) | ❌         |
+
+> 🛠️ Built from scratch, almost died for it. If it resonates, [send food](https://ko-fi.com/neonraven3).
 
 ## 🧭 Philosophy
 - Built by someone who's been crushed by the world and bad engines. This one fights back. No bloat. No lies. Just creation.

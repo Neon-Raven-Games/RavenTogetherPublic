@@ -1,4 +1,4 @@
-# Raven Together™ ![qt](/docs/RT.png)
+# Raven Together™ ![qt](/RT.png)
 > Raven Together – A next-gen pixel art editor built for artists, powered by code, and designed for multiplayer creativity from the ground up.
 No bloat. No waiting. Just real-time collaboration, editable tiles, and shader hot reloads. Built solo. Ready to scale.
 
